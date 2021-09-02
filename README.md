@@ -1,2 +1,2 @@
 # auto_test_stepik
-https://stepik.org/lesson/187065
+Репозиторий для прохождения курса **"Автоматизация тестирования с помощью Selenium и Python"** https://stepik.org/lesson/187065
